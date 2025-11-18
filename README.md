@@ -11,5 +11,7 @@ Un jeu d’action développé en Python avec **Pygame**, inspiré du tutoriel de
 - **Effets sonores :** Sons pour les attaques, explosions et événements spéciaux, ajoutant de l’immersion.
 
 ## 🕹️ Captures d’écran
-![Menu du jeu](chemin/vers/menu.png)
-![Gameplay](chemin/vers/gameplay.png)
+![Menu du jeu](screenshoots/menu.png)
+![Gameplay](screenshoots/gameplay0.png)
+![Gameplay](screenshoots/gameplay1.png)
+![Gameplay](screenshoots/gameplay2.png)
