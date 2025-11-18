@@ -14,4 +14,4 @@ Un jeu d’action développé en Python avec **Pygame**, inspiré du tutoriel de
 ![Menu du jeu](screenshoots/menu.png)
 ![Gameplay](screenshoots/gameplay0.png)
 ![Gameplay](screenshoots/gameplay1.png)
-![Gameplay](screenshoots/gameplay2.png)
+![Gameplay](screenshoots/gamplay2.png)
